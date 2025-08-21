@@ -5,7 +5,7 @@
 ### Seminararbeit  
 **Form und Formalismus – Entwendete Mathematik**
 
-**Autor:** Shuoxin Tan  
+**Autorin:** Shuoxin Tan  
 **Datum:** April 2021
 
 <br>
