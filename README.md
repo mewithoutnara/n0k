@@ -1,4 +1,6 @@
-# Der nullte Körper
+### { } 
+# Der nullte Körper  
+
 
 ### Seminararbeit  
 **Form und Formalismus – Entwendete Mathematik**
