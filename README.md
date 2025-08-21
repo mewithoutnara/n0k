@@ -1,16 +1,17 @@
-Seminararbeit - Form und Formalismus <br> 
-Entwendete Mathematik<br>
-Shuoxin Tan
-
-
-
 # Der nullte Körper
 
+### Seminararbeit  
+**Form und Formalismus – Entwendete Mathematik**
 
+**Autor:** Shuoxin Tan  
+**Datum:** April 2021
 
-*„We don’t want to count, we want to think the count.“ — Alain Badiou[^1]*
 <br>
 
+*„We don’t want to count, we want to think the count.“ <br>
+— Alain Badiou[^1]*
+<br>
+<br>
 ## Einführung
 
 Seit langem ging ich um dieselbe Stelle drumherum, bevor ich etwas aufschreiben konnte. Weil ich überlegte, wie ich mit diesem Thema umgehen sollte, das mich interessiert und das mir zugleich einen Mangel an Wissen erschloß. 
